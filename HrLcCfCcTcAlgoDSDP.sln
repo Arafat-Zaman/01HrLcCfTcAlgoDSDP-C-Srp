@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeForce", "CodeForce\Code
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopCoder", "TopCoder\TopCoder.csproj", "{C14A658D-968C-4AAE-B30E-92E315855ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef", "CodeChef\CodeChef.csproj", "{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{C14A658D-968C-4AAE-B30E-92E315855ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C14A658D-968C-4AAE-B30E-92E315855ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C14A658D-968C-4AAE-B30E-92E315855ECC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
