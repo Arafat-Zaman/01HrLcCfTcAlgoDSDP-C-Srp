@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1259
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrLcCfTcAlgoDSDP", "HrLcCfTcAlgoDSDP\HrLcCfTcAlgoDSDP.csproj", "{E08A946A-F6C0-4AC8-B67C-9ACA9E283D8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrLcCfCcTcAlgoDSDP", "HrLcCfTcAlgoDSDP\HrLcCfCcTcAlgoDSDP.csproj", "{E08A946A-F6C0-4AC8-B67C-9ACA9E283D8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{5FE60942-60C0-49F2-BF90-10FE76BD4EFB}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeForce", "CodeForce\CodeForce.csproj", "{2CB6059D-E1F4-4E94-BE0D-B39263021705}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopCoder", "TopCoder\TopCoder.csproj", "{C14A658D-968C-4AAE-B30E-92E315855ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChef", "CodeChef\CodeChef.csproj", "{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C14A658D-968C-4AAE-B30E-92E315855ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C14A658D-968C-4AAE-B30E-92E315855ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C14A658D-968C-4AAE-B30E-92E315855ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BEE0F4-66BF-4CC8-A04D-2E9B8370E1EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
