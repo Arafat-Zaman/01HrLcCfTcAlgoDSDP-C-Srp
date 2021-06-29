@@ -46,6 +46,7 @@
     <Compile Include="Day03-IntrotoConditionalStatements.cs" />
     <Compile Include="Day06-LetsReview.cs" />
     <Compile Include="Day07-Arrays.cs" />
+    <Compile Include="Day08-DictionariesaAdMaps.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
