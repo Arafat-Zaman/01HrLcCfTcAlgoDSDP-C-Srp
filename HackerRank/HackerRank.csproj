@@ -47,6 +47,7 @@
     <Compile Include="Day06-LetsReview.cs" />
     <Compile Include="Day07-Arrays.cs" />
     <Compile Include="Day08-DictionariesaAdMaps.cs" />
+    <Compile Include="Day09_Recursion3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
