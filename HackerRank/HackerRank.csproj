@@ -50,6 +50,7 @@
     <Compile Include="Day09_Recursion3.cs" />
     <Compile Include="Day10_BinaryNumbers.cs" />
     <Compile Include="Day11_2DArrays.cs" />
+    <Compile Include="Day12_Inheritance.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
