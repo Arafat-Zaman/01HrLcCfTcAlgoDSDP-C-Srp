@@ -55,6 +55,7 @@
     <Compile Include="Day14_Scope.cs" />
     <Compile Include="Day15_LinkedList.cs" />
     <Compile Include="Day16_ExceptionsStringtoInteger.cs" />
+    <Compile Include="Day17_MoreExceptions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
