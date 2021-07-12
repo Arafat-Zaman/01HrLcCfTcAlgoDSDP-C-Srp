@@ -45,4 +45,24 @@ class Solution
         Book new_novel = new MyBook(title, author, price);
         new_novel.display();
     }
+
+    internal void enqueueCharacter(char c)
+    {
+        throw new NotImplementedException();
+    }
+
+    internal void pushCharacter(char c)
+    {
+        throw new NotImplementedException();
+    }
+
+    internal object popCharacter()
+    {
+        throw new NotImplementedException();
+    }
+
+    internal object dequeueCharacter()
+    {
+        throw new NotImplementedException();
+    }
 }
