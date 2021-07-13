@@ -57,6 +57,7 @@
     <Compile Include="Day16_ExceptionsStringtoInteger.cs" />
     <Compile Include="Day17_MoreExceptions.cs" />
     <Compile Include="Day18_QueuesandStacks.cs" />
+    <Compile Include="Day19_Interfaces.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
