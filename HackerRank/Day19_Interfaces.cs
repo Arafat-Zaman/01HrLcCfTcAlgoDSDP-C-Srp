@@ -4,7 +4,7 @@ public interface AdvancedArithmetic
     int divisorSum(int n);
 }
 
-public class Calculator : AdvancedArithmetic
+public class Calculators : AdvancedArithmetic
 {
     public int divisorSum(int n)
     {
@@ -21,12 +21,12 @@ public class Calculator : AdvancedArithmetic
     }
 }
 
-class Solution
+class Day19_Interfaces
 {
     static void Main(string[] args)
     {
         int n = Int32.Parse(Console.ReadLine());
-        AdvancedArithmetic myCalculator = new Calculator();
+        AdvancedArithmetic myCalculator = new Calculators();
         int sum = myCalculator.divisorSum(n);
         Console.WriteLine("I implemented: AdvancedArithmetic\n" + sum);
     }
