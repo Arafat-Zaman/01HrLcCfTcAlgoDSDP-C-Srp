@@ -59,6 +59,7 @@
     <Compile Include="Day18_QueuesandStacks.cs" />
     <Compile Include="Day19Sorting.cs" />
     <Compile Include="Day19_Interfaces.cs" />
+    <Compile Include="Day21-Generics.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
