@@ -60,6 +60,7 @@
     <Compile Include="Day19Sorting.cs" />
     <Compile Include="Day19_Interfaces.cs" />
     <Compile Include="Day21-Generics.cs" />
+    <Compile Include="Day22-BinarySearchTrees.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
