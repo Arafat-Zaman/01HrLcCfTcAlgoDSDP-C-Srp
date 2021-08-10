@@ -63,6 +63,7 @@
     <Compile Include="Day22-BinarySearchTrees.cs" />
     <Compile Include="Day23-BSTLevelOrderTraversal.cs" />
     <Compile Include="Day24-MoreLinkedLists.cs" />
+    <Compile Include="Day25-RunningTimeandComplexity.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
